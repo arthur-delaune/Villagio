@@ -8,7 +8,10 @@ A high-level view of how the Villagio prototype is progressing. The product code
 
 ## November 2026
 
-### Week of Nov 3: search and a new activity
+### Week of Nov 3: search, sharing and richer listings
+- **Share to WhatsApp, with rich link previews.** Every listing generates its own branded preview card when it is shared. Parents already coordinate in club and class WhatsApp groups, so a listing that looks good there is Villagio's first organic distribution loop.
+- **Richer listing details.** A clear condition scale (from "new with tags" to "fair", each with a one-line definition), brand and model, a negotiable flag and the original retail price, which shows the parent how much they save compared to buying new.
+- **Give it away.** Parents can list an item for free. Passing outgrown gear on to the next family is core to the community spirit, and it seeds supply early on.
 - **Search page with filters.** Parents can browse listings and narrow them down to find the right item quickly.
 - **New activity: ice hockey.** A dedicated gear catalogue, helmet safety-standard guidance and sample listings, including the hockey bag. This tests how easily Villagio extends to a new activity, using the activity-specific *guides & labels* approach.
 - **Platform maintenance.** The framework was kept up to date with the latest security release.

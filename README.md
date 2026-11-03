@@ -61,7 +61,7 @@ The demand for a kid's activity gear is **concentrated in one place: the club.**
 
 ## Build progress
 
-The clickable prototype is under way. The homepage, listing pages, the publish-a-listing flow and search with filters are built, and **ice hockey** is the first activity to get dedicated gear and safety guidance.
+The clickable prototype is under way. The homepage, listing pages, the publish-a-listing flow and search with filters are built. Listings can be **shared to WhatsApp with branded previews**, and parents can choose to **give gear away for free**. **Ice hockey** is the first activity to get dedicated gear and safety guidance.
 
 → Milestones in [`docs/build-log.md`](docs/build-log.md)
 
