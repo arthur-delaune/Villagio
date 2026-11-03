@@ -59,6 +59,12 @@ The demand for a kid's activity gear is **concentrated in one place: the club.**
 | **2. Retention layer** | Make Villagio the family's activity hub | Child profiles, activity packs, resale reminders |
 | **3. Club platform** | Turn clubs into partners | Club dashboards, bulk listings for end-of-season and kit-swap events |
 
+## Build progress
+
+The clickable prototype is under way. The homepage, listing pages, the publish-a-listing flow and search with filters are built, and **ice hockey** is the first activity to get dedicated gear and safety guidance.
+
+→ Milestones in [`docs/build-log.md`](docs/build-log.md)
+
 ## Brand
 
 - **Name.** *Villagio* echoes "village": it takes a village to raise a child, and a club to equip one.
@@ -73,7 +79,7 @@ The demand for a kid's activity gear is **concentrated in one place: the club.**
 - Built the **competitive analysis** and differentiation strategy against generalist and specialist players
 - Designed the **business model** logic and the lean, concierge-first validation plan
 - Built the **market survey** and the incubator KPI framework
-- Started **prototyping** the first platform screens with AI-assisted development
+- Building the **prototype's front end** with AI-assisted development: homepage, listing pages, the publish flow and search ([build log](docs/build-log.md))
 
 *The product code lives in a separate, private repository maintained by the team.*
 
