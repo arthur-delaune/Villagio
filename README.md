@@ -12,7 +12,7 @@ Villagio links those families through the place they already share: **the club, 
 
 | | |
 |---|---|
-| **Stage** | Pre-MVP · applying to the iESEG incubator (Lille & Paris) |
+| **Stage** | Pre-MVP · admitted to the IESEG incubator (Lille & Paris) |
 | **Market** | France · children aged 5–15 · extracurricular equipment |
 | **Model** | C2C marketplace with a buyer and seller commission and integrated payments |
 | **Team** | Simon, Nathan, Arthur, co-founders |
