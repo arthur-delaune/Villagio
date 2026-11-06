@@ -63,7 +63,7 @@ The demand for a kid's activity gear is **concentrated in one place: the club.**
 
 ## Build progress
 
-The clickable prototype is under way. The prototype now runs on a **full design system (v1)**: brand guidelines, logo, icons and redesigned pages. **Club spaces**, the core differentiator, are live in demo: a club directory, club pages, and access by club code. Homepage, listings, the publish flow, search, **WhatsApp sharing** and **free give-aways** are built.
+The clickable prototype is under way. The prototype now runs on a **full design system (v1)**: brand guidelines, logo, icons and redesigned pages. **Club spaces**, the core differentiator, are live in demo: a club directory, club pages, and access by club code. A shared catalogue of **four families and their activities** drives the product. Publishing takes **two screens**, and **helmet safety standards are shown to buyers**. Homepage, listings, search, **WhatsApp sharing** and **free give-aways** are built.
 
 → Milestones in [`docs/build-log.md`](docs/build-log.md)
 
