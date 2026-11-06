@@ -8,6 +8,11 @@ A high-level view of how the Villagio prototype is progressing. The product code
 
 ## November 2026
 
+### Nov 4: design system v1 and club spaces
+- **Design system v1.** Brand guidelines, logo, icon set, and every page redesigned from the mockup. The signature element is *« L'étiquette »*, the name label passed from one child to the next. Colour, type and contrast rules are written down, so the product stays consistent as the team grows.
+- **Brand homepage.** Campaign card, a "pass it on" banner, real gear photography and a desktop layout. The demo photos were checked one by one: gear only, no children, no names.
+- **Club spaces (demo).** A club directory, a page for each club and access with a club code. This is the core differentiator from the product strategy, now clickable. Public club pages show only a counter of relays between families. Parents' names stay visible to club members only.
+
 ### Week of Nov 3: search, sharing and richer listings
 - **Share to WhatsApp, with rich link previews.** Every listing generates its own branded preview card when it is shared. Parents already coordinate in club and class WhatsApp groups, so a listing that looks good there is Villagio's first organic distribution loop.
 - **Richer listing details.** A clear condition scale (from "new with tags" to "fair", each with a one-line definition), brand and model, a negotiable flag and the original retail price, which shows the parent how much they save compared to buying new.
@@ -29,4 +34,4 @@ A high-level view of how the Villagio prototype is progressing. The product code
 
 ---
 
-**Next up:** the club spaces (the core differentiator), local search by club and neighbourhood, and messaging between parents.
+**Next up:** families and activities, local search by club and neighbourhood, and messaging between parents.

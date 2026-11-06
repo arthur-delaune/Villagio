@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.svg" alt="Villagio" width="280"></p>
+
 # Villagio
 
 **A hyper-local, club-based marketplace where parents buy and resell their kids' activity gear: sport, music, creative arts.**
@@ -61,15 +63,17 @@ The demand for a kid's activity gear is **concentrated in one place: the club.**
 
 ## Build progress
 
-The clickable prototype is under way. The homepage, listing pages, the publish-a-listing flow and search with filters are built. Listings can be **shared to WhatsApp with branded previews**, and parents can choose to **give gear away for free**. **Ice hockey** is the first activity to get dedicated gear and safety guidance.
+The clickable prototype is under way. The prototype now runs on a **full design system (v1)**: brand guidelines, logo, icons and redesigned pages. **Club spaces**, the core differentiator, are live in demo: a club directory, club pages, and access by club code. Homepage, listings, the publish flow, search, **WhatsApp sharing** and **free give-aways** are built.
 
 → Milestones in [`docs/build-log.md`](docs/build-log.md)
 
 ## Brand
 
 - **Name.** *Villagio* echoes "village": it takes a village to raise a child, and a club to equip one.
-- **Personality.** Warm, reassuring, practical, and never corporate.
-- **Palette.** Warm yellow (primary), white, light blue (accent).
+- **Signature: « L'étiquette ».** It's the name label sewn into a kid's kit. When gear changes hands, the old first name is crossed out and the new one is written in. Every sale is a relay from one child to the next, and selling is called *« Passer le relais »*.
+- **Voice.** One parent talking to another: knowing, energetic, concrete. Sizes, seasons and first names, with no circular-economy jargon.
+- **System.** Cerise for the brand, sky blue for large surfaces, deep ink for text, and a single yellow button per screen for the main action. Figtree for the interface, Caveat for handwritten names. Every colour pairing has been checked for contrast (WCAG).
+- **Privacy by design.** No child's name ever appears on a public page.
 
 ---
 
@@ -79,7 +83,7 @@ The clickable prototype is under way. The homepage, listing pages, the publish-a
 - Built the **competitive analysis** and differentiation strategy against generalist and specialist players
 - Designed the **business model** logic and the lean, concierge-first validation plan
 - Built the **market survey** and the incubator KPI framework
-- Building the **prototype's front end** with AI-assisted development: homepage, listing pages, the publish flow and search ([build log](docs/build-log.md))
+- Building the **prototype's front end** with AI-assisted development: design system v1, homepage, listings, the publish flow, search and club spaces ([build log](docs/build-log.md))
 
 *The product code lives in a separate, private repository maintained by the team.*
 
